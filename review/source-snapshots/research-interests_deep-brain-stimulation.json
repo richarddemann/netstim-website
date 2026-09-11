@@ -1,0 +1,19 @@
+[
+  "Deep Brain Stimulation",
+  "DEEP BRAIN STIMULATION",
+  "The main focus of our work is deep brain stimulation (DBS) – predominantly in movement disorders such as Parkinson’s Disease, Essential Tremor or Dystonia – more rarely in cognitive disorders such as Depression or Alzheimer’s Disease. In DBS, electrodes are surgically implanted into deep (subcortical) areas of the brain and – using an implanted impulse generator – these structures are stimulated chronically . The figure below shows a reconstruction of two DBS leads implanted with target subthalamic nucleus (orange) to treat Parkinson’s Disease.",
+  "Building tools to reconstruct electrode placement",
+  "Since 2012, we develop an open-source toolbox to facilitate reconstruction of DBS electrode placement based on postoperative imaging.",
+  "Lead-DBS has since become a leading platform for DBS imaging research with specific focus on brain connectivity between DBS stimulation sites and other areas in the brain.",
+  "Impact of Lead-DBS",
+  "In 2015, Lead-DBS was awarded with the Max-Rubner-Prize for Innovation by Stiftung Charité , in 2016 a Harvard Radcliffe Exploratory Ventures Grant by the Harvard Radcliffe Institute for Advanced Study . In 2017, Lead-DBS was awarded the Robert-Koch-Prize of Charité, Berlin.",
+  "At the time of writing, Lead-DBS was downloaded over 65,000 times by researchers world-wide and currently, groups from over 20 institutions contributed to Lead-DBS code & content.",
+  "Lead-DBS 3.0",
+  "In 2017, Lead-DBS 2.0 was introduced which featured five major contributions from various authors across the globe. In 2023, Lead-DBS 3.0 was introduced, which was the largest update to our toolbox yet.",
+  "Resources and atlases",
+  "Lead-DBS features a high number of subcortical atlases and whole-brain parcellations from various authors.",
+  "Lead-DBS methods",
+  "Since 2012, we introduced a number of novel methods to analyze DBS recording sites and brain connectivity. As such, the subcortical electrophysiology mapping (SEM) approach was introduced in Horn et al. 2017a and applied in Neumann et al. 2017 . A summary of the approach can be found here . A novel method to convert AC/PC coordinates into MNI standard space was introduced in Horn et al. 2017b and is described here . Finally, a method to predict clinical outcome of DBS patients based on brain connectivity – termed Connectivity Benefit Mapping – was introduced in Horn et al. 2017c .",
+  "Latest Updates",
+  "Imprint | Privacy Policy"
+]

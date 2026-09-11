@@ -1,0 +1,235 @@
+[
+  {
+    "ids": [
+      2
+    ],
+    "title": "Home · Introduction",
+    "before": "DEAR READER,\n\nWelcome to the website of the Institute for Network Stimulation – which is based at the University Hospital Cologne.\n\nWe are a scientific group with interest in neuroimaging, methods development, movement disorders and invasive brain stimulation.\n\nThe goal of our research is to analyse and modulate brain networks to improve clinical treatment in neurological and psychiatric brain disorders.\n\nThe primary tools we use to pursue these goals are structural imaging and noninvasive connectivity measures derived from functional and diffusion weighted MRI.",
+    "after": "Institute for Network Stimulation\n\nWe study how brain networks respond to stimulation and how these responses relate to neurological and psychiatric symptoms. Our group is based at University Hospital Cologne. We use structural and functional MRI, diffusion imaging and computational modelling to investigate these questions.",
+    "note": "Optional rewrite of the introduction. The software paragraph is compared separately below; no surrounding text is silently omitted from the proposed passage.",
+    "url": "https://www.netstim.org/",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      1
+    ],
+    "title": "Site-wide · Page title",
+    "before": "Network Stimulation Laboratory",
+    "after": "NetStim — Institute for Network Stimulation",
+    "note": "Formal site name only; individual page prefixes remain unchanged.",
+    "url": "https://www.netstim.org/",
+    "references": [
+      [
+        "NIMLab / Center for Brain Circuit Therapeutics",
+        "https://www.brainnetworkstim.com/about-us/",
+        "Explains the scientific approach in steps and separates it from institutional history. Useful for research structure. The lab identifies its home as Brigham and Women’s, within Mass General Brigham; it should not be labelled an MGH lab."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      4
+    ],
+    "title": "Home · Past funding",
+    "before": "Past funding includes grants from the German Research Council, the Dystonia Research Foundation, the Berlin Institute of Health, Stiftung Charite, the Thiemann Foundation for Parkinson’s Disease Research, the Foundation for OCD research (FFOR), the German Research Council and the EU Joint Programme – Neurodegenerative Disease Research (JPND).",
+    "after": "Past funding includes grants from the German Research Council, the Dystonia Research Foundation, the Berlin Institute of Health, Stiftung Charite, the Thiemann Foundation for Parkinson’s Disease Research, the Foundation for OCD research (FFOR) and the EU Joint Programme – Neurodegenerative Disease Research (JPND).",
+    "note": "Remove only the repeated funder. Current grant status still needs confirmation.",
+    "url": "https://www.netstim.org/",
+    "references": []
+  },
+  {
+    "ids": [
+      5
+    ],
+    "title": "People · Andreas’s opening",
+    "before": "Before bringing to life the NetStim Lab in April 2019, Andreas worked as a postdoc at the Laboratory for Brain Network Imaging and Modulation headed by Prof. Michael Fox at Harvard. Prior to that, he completed an MD/PhD with Prof. Andrea Kühn in the Movement Disorders and Neuromodulation Section at Charité Berlin, conjointly with a scientific appointment at the laboratory of Prof. Felix Blankenburg (Bernstein Center for Computational Neuroscience / Max Planck Institute for Human Development). Andreas also holds a Dr. med., which he obtained under the guidance of Prof. Cornelius Weiller in Freiburg. As a PI he is affiliated with the PhD program of the Einstein Center for Neurosciences Berlin and the International Graduate Program Medical Neurosciences at Charité Berlin, and teaches medical as well as postgraduate-level courses.",
+    "after": "Andreas is Schilling Professor for Computational Neurology at the University of Cologne, where he took up his appointment in May 2025. His research focuses on brain connectivity and deep brain stimulation.\n\nBefore bringing to life the NetStim Lab in April 2019, Andreas worked as a postdoc at the Laboratory for Brain Network Imaging and Modulation headed by Prof. Michael Fox at Harvard. Prior to that, he completed an MD/PhD with Prof. Andrea Kühn in the Movement Disorders and Neuromodulation Section at Charité Berlin, conjointly with a scientific appointment at the laboratory of Prof. Felix Blankenburg (Bernstein Center for Computational Neuroscience / Max Planck Institute for Human Development). Andreas also holds a Dr. med., which he obtained under the guidance of Prof. Cornelius Weiller in Freiburg. As a PI he is affiliated with the PhD program of the Einstein Center for Neurosciences Berlin and the International Graduate Program Medical Neurosciences at Charité Berlin, and teaches medical as well as postgraduate-level courses.",
+    "note": "Insert the current appointment before the existing history. No training history or personal details are removed. Continuing Berlin affiliations still need confirmation.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "references": [
+      [
+        "NIMLab / Center for Brain Circuit Therapeutics",
+        "https://www.brainnetworkstim.com/about-us/",
+        "Explains the scientific approach in steps and separates it from institutional history. Useful for research structure. The lab identifies its home as Brigham and Women’s, within Mass General Brigham; it should not be labelled an MGH lab."
+      ],
+      [
+        "UCSF Starr Lab — People",
+        "https://starrlab.ucsf.edu/people",
+        "Names and current roles are easy to find. NetStim can do this without removing its longer personal biographies."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      10,
+      11
+    ],
+    "title": "Andreas page · Scientific focus",
+    "before": "Andreas has spent the last five years including a PhD on developing and improving methods to analyse brain stimulation sites and how their whole brain effects are mediated via distributed structural and functional networks. To facilitate this work, he developed an openly available software toolbox to localise deep brain stimulation electrode placement based on postoperative imaging (lead-dbs.org / leadsuite.io). The software is now developed by a multi-institutional team and is used by over one thousand scientists on all continents (>7000 downloads). The software was awarded by the Max Rubner Prize of Stiftung Charité, the Robert Koch Prize of Charité Berlin and an Academic Ventures grant of Harvard Radcliffe Institute for Advanced Studies.",
+    "after": "Andreas develops methods to reconstruct brain stimulation sites and study their structural and functional connections with the rest of the brain. To facilitate this work, he developed an openly available software toolbox to localise deep brain stimulation electrode placement based on postoperative imaging (lead-dbs.org / leadsuite.io). The software is now developed by a multi-institutional team. The software was awarded by the Max Rubner Prize of Stiftung Charité, the Robert Koch Prize of Charité Berlin and an Academic Ventures grant of Harvard Radcliffe Institute for Advanced Studies.",
+    "note": "Replace the relative time window and remove undated usage numbers; preserve the development history and awards.",
+    "url": "https://www.netstim.org/about-us/about-us/andreashorn/",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      14
+    ],
+    "title": "Jobs · Unsolicited applications",
+    "before": "We are always open for unsolicited applications if you’d like to join our team e.g. with a personal grant or other types of funding. For instance, Andreas Horn is PI at the Einstein Center for Neurosciences and the Medical Neurosciences PhD programs in Berlin that offer the possibility to apply for funding. Just contact us and we may find a good way.",
+    "after": "If you would like to join the lab with your own fellowship or other funding, please get in touch to discuss a possible project in Cologne.",
+    "note": "Proposed wording, pending confirmation of hosting capacity, application contact and any continuing Berlin programme arrangements.",
+    "url": "https://www.netstim.org/about-us/jobs/",
+    "references": [
+      [
+        "Fixel-linked Butson Lab",
+        "https://www.neuropotential.org/",
+        "A short description of the work followed by Projects, Publications and Resources. Brevity works because the verbs describe research activities."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      16
+    ],
+    "title": "DBS · Introduction",
+    "before": "The main focus of our work is deep brain stimulation (DBS) – predominantly in movement disorders such as Parkinson’s Disease, Essential Tremor or Dystonia – more rarely in cognitive disorders such as Depression or Alzheimer’s Disease. In DBS, electrodes are surgically implanted into deep (subcortical) areas of the brain and – using an implanted impulse generator – these structures are stimulated chronically. The figure below shows a reconstruction of two DBS leads implanted with target subthalamic nucleus (orange) to treat Parkinson’s Disease.",
+    "after": "We investigate how the location of deep brain stimulation and its connections to other brain regions relate to clinical outcomes. We reconstruct electrode locations from postoperative imaging and use structural and functional connectivity to study the networks associated with improvement in symptoms.\n\nOur work also asks how stimulation of a small brain region affects activity across a wider network.\n\nIn DBS, electrodes are surgically implanted into deep (subcortical) areas of the brain and – using an implanted impulse generator – these structures are stimulated chronically. The figure below shows a reconstruction of two DBS leads implanted with target subthalamic nucleus (orange) to treat Parkinson’s Disease.",
+    "note": "The alternative replaces the research-scope sentences and retains the procedure explanation and figure caption. The change in emphasis is editorial, not a claim that the former conditions are no longer studied.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      17
+    ],
+    "title": "DBS · Undated statistics",
+    "before": "At the time of writing, Lead-DBS was downloaded over 65,000 times by researchers world-wide and currently, groups from over 20 institutions contributed to Lead-DBS code & content.",
+    "after": "",
+    "note": "Delete this paragraph. Keep the download link, contributor link and preceding awards paragraph.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "references": [
+      [
+        "Fixel-linked Butson Lab",
+        "https://www.neuropotential.org/",
+        "A short description of the work followed by Projects, Publications and Resources. Brevity works because the verbs describe research activities."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      22
+    ],
+    "title": "Connectomes · Applications",
+    "before": "Normative connectomes cannot replace patient/subject-specific connectivity information but are useful in scenarios where subject-specific data is not available and cannot be acquired. This often includes clinical applications such as:",
+    "after": "Normative connectomes describe connectivity in a group of subjects. We use them when individual connectivity data are unavailable, while recognising that they do not capture the connectivity of a particular patient. This often includes clinical applications such as:",
+    "note": "Retain the following application list. Its separate statement about postoperative MRI still needs clinical review.",
+    "url": "https://www.netstim.org/research-interests/normative-connectomes/",
+    "references": []
+  },
+  {
+    "ids": [
+      25
+    ],
+    "title": "Book · Opening",
+    "before": "We are excited that our book on connectomic deep brain stimulation can now be ordered from the publisher (Academic Press) and/or Amazon etc.",
+    "after": "Our book, Connectomic Deep Brain Stimulation, covers electrode localisation, stimulation modelling and brain connectivity, with chapters contributed by researchers working in these areas. The book is available from the publisher (Academic Press) and Amazon.",
+    "note": "Keep the existing publisher and retailer links on their names and retain the contributor paragraphs below.",
+    "url": "https://www.netstim.org/research-interests/the-book/",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ]
+    ]
+  },
+  {
+    "ids": [
+      28
+    ],
+    "title": "Stimu-Latte · Introduction",
+    "before": "We are proud to present our new in-person journal club series: Stimu-latte! This post-doc-run journal club takes place once a month on Wednesdays at 4:00 PM. We will gather in a friendly environment and discuss the latest developments on neuromodulation over a cup of coffee. Neuromodulation enthusiasts from all career levels are welcome! On this page, you can find upcoming and previous sessions. Looking forward to stimulating discussions!",
+    "after": "Stimu-Latte is our monthly journal club in Cologne. We meet to discuss papers on neuromodulation over coffee. Everyone with an interest in the topic is welcome. Sign up to the mailing list for session announcements.",
+    "note": "The organiser should confirm the schedule. Keep the location and session list below; this comparison covers the introduction only.",
+    "url": "https://www.netstim.org/research-interests/stimu-latte/",
+    "references": []
+  },
+  {
+    "ids": [
+      34
+    ],
+    "title": "People · Benjamin’s repeated paragraphs",
+    "before": "At the Institute for Network Stimulation, his research is supported by DFG funding, giving him the opportunity to focus on his main area of interest, the development of personalized protocols in TMS. He is interested in how individualized brain mapping and circuit dynamics can guide stimulation targeting and improve treatment response. Benjamin has played tennis since the age of four, competed in teams for years and trained as a coach, though he makes it onto the court only occasionally these days. He also enjoys reading other than scientific articles, or listening to audiobooks and podcasts. He particularly enjoys traveling to France and generally to the sea. Occasionally, he tries to recall his childhood piano lessons, only to give up in frustration.\n\nAt the Institute for Network Stimulation, his research is supported by DFG funding, giving him the opportunity to focus on his main area of interest, the development of personalized protocols in TMS. He is interested in how individualized brain mapping and circuit dynamics can guide stimulation targeting and improve treatment response.\n\nBenjamin has played tennis since the age of four, competed in teams for years and trained as a coach, though he makes it onto the court only occasionally these days. He also enjoys reading other than scientific articles, or listening to audiobooks and podcasts. He particularly enjoys traveling to France and generally to the sea. Occasionally, he tries to recall his childhood piano lessons, only to give up in frustration.\n\nBenjamin has played tennis since the age of four, competed in teams for years and trained as a coach, though he makes it onto the court only occasionally these days. He also enjoys reading other than scientific articles, or listening to audiobooks and podcasts. He particularly enjoys traveling to France and generally to the sea. Occasionally, he tries to recall his childhood piano lessons, only to give up in frustration.",
+    "after": "At the Institute for Network Stimulation, his research is supported by DFG funding, giving him the opportunity to focus on his main area of interest, the development of personalized protocols in TMS. He is interested in how individualized brain mapping and circuit dynamics can guide stimulation targeting and improve treatment response. Benjamin has played tennis since the age of four, competed in teams for years and trained as a coach, though he makes it onto the court only occasionally these days. He also enjoys reading other than scientific articles, or listening to audiobooks and podcasts. He particularly enjoys traveling to France and generally to the sea. Occasionally, he tries to recall his childhood piano lessons, only to give up in frustration.",
+    "note": "The repeated paragraphs are in the retrieved live HTML and local mock. Remove the extra copies while keeping the first complete research and hobbies paragraph. This corrects the earlier claim that the duplication was local only.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "references": []
+  },
+  {
+    "ids": [
+      2
+    ],
+    "title": "Home · Lead-DBS paragraph",
+    "before": "As a methodological “backbone” of our work, together with others, we develop an open-source software called Lead-DBS. Lead-DBS is a toolbox facilitating Deep Brain Stimulation electrode reconstructions and computer simulations based on postoperative MRI & CT imaging.",
+    "after": "Together with collaborators, we develop Lead-DBS, an open-source toolbox for reconstructing DBS electrodes and modelling stimulation from postoperative MRI and CT images.",
+    "note": "Separate comparison of the existing software paragraph. The normative-connectome paragraph that follows is retained.",
+    "url": "https://www.netstim.org/",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  }
+]

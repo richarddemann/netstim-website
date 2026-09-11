@@ -1,0 +1,16 @@
+[
+  "Normative Connectomes",
+  "Normative Connectomes",
+  "Since 2014, we worked on estimating “ average wiring diagrams ” of the human brain. Based on diffusion-weighted or resting-state functional MRI data of large cohorts of subjects/patients, this line of work focused on running whole-brain tractography or functional connectivity analyses, warping individual connectomes into standard space and then averaging the results across the group of subjects.",
+  "In 2014 , we published a first article under the lead of Felix Blankenburg describing the effort of a first structural-functional MNI connectome . There is a small additional article associated with the data release of this first connectome. 2016 , we replicated results based on a much larger cohort of healthy subjects and validated the use of such normative connectomes by replicating multiple connectomic studies directly within template space and based on the group connectome only.",
+  "In 2017 , a first article under the lead of Andrea A Kühn made use of such normative connectomes by combining connectivity measures with electrophysiological recordings of the subcortex. This novel connectome in use here was based on high-quality multishell diffusion data acquired within the human connectome project ( Setsompop 2013 ).",
+  "A second article published under the lead of Michael D Fox explored connectivity profiles of literature based deep brain stimulation targets using normative connectomes. This made use of a 1000-healthy subject functional connectome based on data off the Harvard genomic superstruct project that is also used on neurosynth.org and was both preprocessed and provided by Thomas Yeo ( Yeo 2011 ).",
+  "Finally, within work of a third article , both functional and structural average connectomes from patients suffering from Parkinson’s Disease were created (using data of the PPMI project ; ppmi-info.org ).",
+  "Most normative connectomes are available for direct download within the Lead Neuroimaging Suite ( leadsuite.io )",
+  "List of currently available connectomes",
+  "Applications",
+  "Normative connectomes cannot replace patient/subject-specific connectivity information but are useful in scenarios where subject-specific data is not available and cannot be acquired. This often includes clinical applications such as:",
+  "Examples / Figures",
+  "Latest Updates",
+  "Imprint | Privacy Policy"
+]

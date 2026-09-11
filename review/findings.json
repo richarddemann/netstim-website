@@ -1,0 +1,549 @@
+[
+  {
+    "page": "Site-wide",
+    "title": "Institutional name",
+    "status": "Update",
+    "before": "Page titles use “Network Stimulation Laboratory”.",
+    "after": "NetStim — Institute for Network Stimulation",
+    "why": "Change the formal page title. Keep “lab” in ordinary prose.",
+    "url": "https://www.netstim.org/",
+    "extra": "https://uni-koeln.de/universitaet/aktuell/personalia/personalia-news-detail/professor-dr-andreas-horn",
+    "kind": "Suggested wording",
+    "references": [
+      [
+        "NIMLab / Center for Brain Circuit Therapeutics",
+        "https://www.brainnetworkstim.com/about-us/",
+        "Explains the scientific approach in steps and separates it from institutional history. Useful for research structure. The lab identifies its home as Brigham and Women’s, within Mass General Brigham; it should not be labelled an MGH lab."
+      ]
+    ]
+  },
+  {
+    "page": "Home",
+    "title": "Opening",
+    "status": "Editorial",
+    "before": "The homepage starts with a salutation; Cologne is already correct.",
+    "after": "Institute for Network Stimulation\n\nWe study how brain networks respond to stimulation and how these responses relate to neurological and psychiatric symptoms. Our group is based at University Hospital Cologne. We use structural and functional MRI, diffusion imaging and computational modelling to investigate these questions.\n\nTogether with collaborators, we develop Lead-DBS, an open-source toolbox for reconstructing DBS electrodes and modelling stimulation from postoperative MRI and CT images.",
+    "why": "Use the institute name as the heading. Describe the research and methods underneath. The original welcome could also stay; a new slogan is unnecessary. Scope and methods come from the NetStim pages reviewed, not from the reference labs.",
+    "url": "https://www.netstim.org/",
+    "extra": "",
+    "kind": "Suggested wording",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "page": "Home",
+    "title": "Publication highlights",
+    "status": "Editorial",
+    "before": "Prestige of publication venues takes precedence over research findings.",
+    "after": "Keep the heading “Publications”. Add a small selection of papers above the full list, with authors, title, journal and year. Label preprints. The journal list can be shortened once the papers are in place.",
+    "why": "The problem is that readers cannot readily see the work. There is no need to replace the section with promotional summaries.",
+    "url": "https://www.netstim.org/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ]
+    ]
+  },
+  {
+    "page": "Home",
+    "title": "Funding",
+    "status": "Confirm",
+    "before": "The funder list is undated and repeats the German Research Council.",
+    "after": "Delete the duplicate funder. Keep current and past funding separate, after checking the list with the person who manages the grants.",
+    "why": "Do not add a public review-date apparatus unless it is useful. Dates and grant details belong with specific awards.",
+    "url": "https://www.netstim.org/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": []
+  },
+  {
+    "page": "People",
+    "title": "Andreas: current appointment",
+    "status": "Update",
+    "before": "Biography foregrounds training and former appointments.",
+    "after": "Andreas is Schilling Professor for Computational Neurology at the University of Cologne, where he took up his appointment in May 2025. His research focuses on brain connectivity and deep brain stimulation.\n\n[Keep the existing training history and personal paragraph below.]",
+    "why": "Add the present appointment before the biography. Keep the coffee, music and other personal details rather than replacing them with a generic professional profile.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "https://uni-koeln.de/universitaet/aktuell/personalia/personalia-news-detail/professor-dr-andreas-horn",
+    "kind": "Suggested opening; bracketed text is an editing note",
+    "references": [
+      [
+        "NIMLab / Center for Brain Circuit Therapeutics",
+        "https://www.brainnetworkstim.com/about-us/",
+        "Explains the scientific approach in steps and separates it from institutional history. Useful for research structure. The lab identifies its home as Brigham and Women’s, within Mass General Brigham; it should not be labelled an MGH lab."
+      ],
+      [
+        "UCSF Starr Lab — People",
+        "https://starrlab.ucsf.edu/people",
+        "Names and current roles are easy to find. NetStim can do this without removing its longer personal biographies."
+      ]
+    ]
+  },
+  {
+    "page": "People",
+    "title": "Aysu: conflicting career stages",
+    "status": "Confirm",
+    "before": "Opening identifies a Berlin doctoral student; later text describes a Cologne postdoc and future PhD plans.",
+    "after": "Ask Aysu to confirm the opening sentence and the passages about completing her PhD. Then correct those passages together; leave the research description and personal paragraph intact.",
+    "why": "The page gives incompatible career stages. A polished workaround would hide the problem rather than resolve it.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "People",
+    "title": "Helen: location and project stage",
+    "status": "Confirm",
+    "before": "Boston arrival language from 2023 remains in the present tense.",
+    "after": "Ask Helen whether the Boston affiliation, thesis description and degree information are still current. Update only the passages that have changed.",
+    "why": "A 2023 arrival date is valid history. The unresolved issue is the present-tense description.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "People",
+    "title": "Short biographies",
+    "status": "Editorial",
+    "before": "Maike, Christine, Jan Philipp and Michael have very short entries.",
+    "after": "Keep the short entries. Add a research sentence if each person wants one; confirm Michael’s role.",
+    "why": "A short biography is not an outdated biography. Equal paragraph lengths are unnecessary.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "UCSF Starr Lab — People",
+        "https://starrlab.ucsf.edu/people",
+        "Names and current roles are easy to find. NetStim can do this without removing its longer personal biographies."
+      ]
+    ]
+  },
+  {
+    "page": "People",
+    "title": "Remaining roster",
+    "status": "Keep",
+    "before": "Recent Cologne entries and an alumni section are present.",
+    "after": "Keep the current biographies and alumni list. Correct individual roles when members report a change.",
+    "why": "Preserve personal details, including Pepsi. Do not rewrite the whole roster into a standard template.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "",
+    "kind": "Retain",
+    "references": [
+      [
+        "UCSF Starr Lab — People",
+        "https://starrlab.ucsf.edu/people",
+        "Names and current roles are easy to find. NetStim can do this without removing its longer personal biographies."
+      ]
+    ]
+  },
+  {
+    "page": "Andreas page",
+    "title": "Relative chronology",
+    "status": "Update",
+    "before": "“last five years” describes research including the PhD without a reference date.",
+    "after": "Andreas develops methods to reconstruct brain stimulation sites and study their structural and functional connections with the rest of the brain.",
+    "why": "Replace only the floating “last five years” sentence. Keep the scientific detail in the surrounding text.",
+    "url": "https://www.netstim.org/about-us/about-us/andreashorn/",
+    "extra": "",
+    "kind": "Suggested wording",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "page": "Andreas page",
+    "title": "Usage numbers",
+    "status": "Update",
+    "before": "This page gives 7,000+ downloads and 1,000+ users; the DBS page gives a different undated count.",
+    "after": "Remove the undated user and download counts. Keep the account of Lead-DBS development and the dated awards.",
+    "why": "No replacement paragraph is needed. If a reliable dated count is available, it can be added later.",
+    "url": "https://www.netstim.org/about-us/about-us/andreashorn/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "Fixel-linked Butson Lab",
+        "https://www.neuropotential.org/",
+        "A short description of the work followed by Projects, Publications and Resources. Brevity works because the verbs describe research activities."
+      ]
+    ]
+  },
+  {
+    "page": "Andreas page",
+    "title": "Duplicate biography and profile links",
+    "status": "Confirm",
+    "before": "Separate personal overview, social links and reviewer-profile links require their own upkeep.",
+    "after": "Update this page alongside the People biography. Check the CV and profile links, and ask Andreas which contact link he wants displayed.",
+    "why": "A separate detailed biography can be useful. It does not have to be removed merely because a shorter biography exists.",
+    "url": "https://www.netstim.org/about-us/about-us/andreashorn/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "NIMLab / Center for Brain Circuit Therapeutics",
+        "https://www.brainnetworkstim.com/about-us/",
+        "Explains the scientific approach in steps and separates it from institutional history. Useful for research structure. The lab identifies its home as Brigham and Women’s, within Mass General Brigham; it should not be labelled an MGH lab."
+      ]
+    ]
+  },
+  {
+    "page": "Jobs",
+    "title": "Vacancy status",
+    "status": "Confirm",
+    "before": "“Currently no open posts” has no review date.",
+    "after": "Confirm whether there are open positions. If there are none, keep the existing sentence. If there are, replace it with the position titles and application links.",
+    "why": "The wording itself is fine; the vacancy status needs checking.",
+    "url": "https://www.netstim.org/about-us/jobs/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Jobs",
+    "title": "Recruitment route",
+    "status": "Confirm",
+    "before": "Funding guidance centres on Berlin doctoral programmes.",
+    "after": "Unsolicited applications\n\nIf you would like to join the lab with your own fellowship or other funding, please get in touch to discuss a possible project in Cologne.",
+    "why": "Keep the direct invitation already present. Put any confirmed doctoral programmes and application contact below it.",
+    "url": "https://www.netstim.org/about-us/jobs/",
+    "extra": "",
+    "kind": "Suggested wording — contact and hosting arrangements need confirmation",
+    "references": [
+      [
+        "Fixel-linked Butson Lab",
+        "https://www.neuropotential.org/",
+        "A short description of the work followed by Projects, Publications and Resources. Brevity works because the verbs describe research activities."
+      ]
+    ]
+  },
+  {
+    "page": "Jobs",
+    "title": "Culture and software expectations",
+    "status": "Confirm",
+    "before": "The culture section relies on a management label; software contributions are expected of every member.",
+    "after": "Keep the description of code, documentation, testing and teaching contributions. Ask whether the expectation still applies to every role. Explain “teal organization” only if it remains a useful description of how the lab works.",
+    "why": "Specific expectations are more useful than a newly invented culture paragraph.",
+    "url": "https://www.netstim.org/about-us/jobs/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "DBS",
+    "title": "Research framing",
+    "status": "Update",
+    "before": "“cognitive disorders such as Depression” groups unlike conditions together.",
+    "after": "We investigate how the location of deep brain stimulation and its connections to other brain regions relate to clinical outcomes. We reconstruct electrode locations from postoperative imaging and use structural and functional connectivity to study the networks associated with improvement in symptoms.\n\nOur work also asks how stimulation of a small brain region affects activity across a wider network.",
+    "why": "State the scientific questions and how they are studied. In the retained condition list, replace the category that places depression under cognitive disorders; confirm which conditions represent the group’s present focus.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "extra": "",
+    "kind": "Suggested wording",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ],
+      [
+        "Fixel — de Hemptinne Laboratory",
+        "https://fixel.ufhealth.org/research/laboratories/core-laboratories/neuromodulation-brain-mapping-lab/de-hemptinne-laboratory/",
+        "Moves from the research aim to the recordings used to investigate it. Use that specificity; the page’s older news is not a model for currency."
+      ]
+    ]
+  },
+  {
+    "page": "DBS",
+    "title": "Impact statistics",
+    "status": "Update",
+    "before": "65,000+ downloads and contributions from 20+ institutions are presented without dates.",
+    "after": "Delete the undated download and institution counts. Keep a direct link to Lead-DBS and its contributors.",
+    "why": "Remove the weak material without adding a “community” slogan in its place.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "Fixel-linked Butson Lab",
+        "https://www.neuropotential.org/",
+        "A short description of the work followed by Projects, Publications and Resources. Brevity works because the verbs describe research activities."
+      ]
+    ]
+  },
+  {
+    "page": "DBS",
+    "title": "Release narrative",
+    "status": "Update",
+    "before": "The featured release section centres on version 3.0 in 2023.",
+    "after": "Keep “Lead-DBS 3.0” as a dated release story. Add a link to current release information and, separately, the 2026 Lead-DBS 4.0 poster.",
+    "why": "A conference poster is evidence of work on that version, not confirmation of a public stable release.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "extra": "https://www.netstim.org/research-interests/posters/",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ]
+    ]
+  },
+  {
+    "page": "DBS",
+    "title": "Awards and methods",
+    "status": "Editorial",
+    "before": "Awards and methods predominantly describe 2015–2017 milestones.",
+    "after": "Keep the dated awards and methods papers. Add recent methods where they belong in the account of the research.",
+    "why": "Do not rename everything “Earlier milestones” or imply that an older method is obsolete.",
+    "url": "https://www.netstim.org/research-interests/deep-brain-stimulation/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ]
+    ]
+  },
+  {
+    "page": "Connectomes",
+    "title": "Catalogue currency",
+    "status": "Keep",
+    "before": "The catalogue includes dTOR-985, GSP 1000 v2 and a pediatric resource.",
+    "after": "Keep the dataset list, citations and download links.",
+    "why": "The list already contains newer resources. It needs maintenance, not a rewritten introduction.",
+    "url": "https://www.netstim.org/research-interests/normative-connectomes/",
+    "extra": "",
+    "kind": "Retain",
+    "references": []
+  },
+  {
+    "page": "Connectomes",
+    "title": "Version and installation guidance",
+    "status": "Confirm",
+    "before": "Several download entries say current version; installation instructions include manual file handling.",
+    "after": "Check each version label and installation instruction against its dataset repository. Add missing information about template space, licence or citation where users need it.",
+    "why": "Keep this as a resource-maintenance task, not proposed website prose.",
+    "url": "https://www.netstim.org/research-interests/normative-connectomes/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Connectomes",
+    "title": "Applications wording",
+    "status": "Editorial",
+    "before": "The DBS example broadly characterises postoperative MRI acquisition as very difficult.",
+    "after": "Normative connectomes describe connectivity in a group of subjects. We use them when individual connectivity data are unavailable, while recognising that they do not capture the connectivity of a particular patient.",
+    "why": "Keep the limitation. The more specific paragraph about MRI after DBS needs a clinical review if retained.",
+    "url": "https://www.netstim.org/research-interests/normative-connectomes/",
+    "extra": "",
+    "kind": "Suggested wording",
+    "references": []
+  },
+  {
+    "page": "Publications",
+    "title": "Bibliography visibility",
+    "status": "Confirm",
+    "before": "The retrieved page exposes configuration-like text instead of readable citations.",
+    "after": "Check that the bibliography loads in a browser and includes the intended recent papers. Keep a direct link to the source library if the embedded list fails.",
+    "why": "The text retrieval did not establish that the widget is broken. Fix a confirmed display problem before redesigning the bibliography.",
+    "url": "https://www.netstim.org/research-interests/publications/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": [
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ]
+    ]
+  },
+  {
+    "page": "Posters",
+    "title": "2026 work",
+    "status": "Keep",
+    "before": "The page contains OHBM 2026 and DBS Expert Summit 2026 contributions.",
+    "after": "Keep the 2026 posters and their original affiliations. Add a journal-paper link when a corresponding paper is available.",
+    "why": "Preserve the distinction between conference work and published articles.",
+    "url": "https://www.netstim.org/research-interests/posters/",
+    "extra": "",
+    "kind": "Retain",
+    "references": [
+      [
+        "UCSF N3 Lab",
+        "https://netmod.ucsf.edu/",
+        "Names methods and research aims, with uncertainty about what the work may lead to. Publications are identified as papers or preprints."
+      ]
+    ]
+  },
+  {
+    "page": "Book",
+    "title": "Launch copy",
+    "status": "Editorial",
+    "before": "“can now be ordered” retains launch-announcement wording.",
+    "after": "Our book, Connectomic Deep Brain Stimulation, covers electrode localisation, stimulation modelling and brain connectivity, with chapters contributed by researchers working in these areas.",
+    "why": "Replace the launch announcement only. Keep the detailed chapter descriptions and contributor names; they are more informative than “Explore the book”.",
+    "url": "https://www.netstim.org/research-interests/the-book/",
+    "extra": "",
+    "kind": "Suggested opening",
+    "references": [
+      [
+        "UCSF Starr Lab — Research",
+        "https://starrlab.ucsf.edu/research",
+        "Names the questions, then describes how the group investigates them. This is the strongest model for the NetStim research page."
+      ]
+    ]
+  },
+  {
+    "page": "Videos & Talks",
+    "title": "Archive framing",
+    "status": "Editorial",
+    "before": "Visible recordings are dated 2018–2021.",
+    "after": "Keep “Videos & Talks” and the dates. Add newer recordings when available.",
+    "why": "There is no reason to call the section an archive just because its recordings are older.",
+    "url": "https://www.netstim.org/research-interests/videos-talks/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": []
+  },
+  {
+    "page": "Videos & Talks",
+    "title": "Conflicting event date",
+    "status": "Confirm",
+    "before": "One entry gives 07.09.2021 alongside a workshop labelled 2019.",
+    "after": "Check the recording or programme and correct the conflicting year.",
+    "why": "Do not guess whether the date or event label is wrong.",
+    "url": "https://www.netstim.org/research-interests/videos-talks/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Stimu-Latte",
+    "title": "Next session and launch wording",
+    "status": "Confirm",
+    "before": "The page retains a launch introduction and time-change notice; listed sessions end in July 2026.",
+    "after": "Stimu-Latte is our monthly journal club in Cologne. We meet to discuss papers on neuromodulation over coffee. Everyone with an interest in the topic is welcome. Sign up to the mailing list for session announcements.",
+    "why": "Keep the friendly invitation. Put the next confirmed session below it, with time and room; remove the old time-change notice when no longer needed.",
+    "url": "https://www.netstim.org/research-interests/stimu-latte/",
+    "extra": "",
+    "kind": "Suggested wording — organiser to confirm schedule",
+    "references": []
+  },
+  {
+    "page": "Stimu-Latte",
+    "title": "Weekday consistency",
+    "status": "Confirm",
+    "before": "The recurring description says Wednesdays, while 21 October and 25 November 2025 were Tuesdays.",
+    "after": "Ask the organisers whether the two Tuesday dates were exceptions or errors. Correct the dates or the recurring weekday description accordingly.",
+    "why": "Retain the session history.",
+    "url": "https://www.netstim.org/research-interests/stimu-latte/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Updates",
+    "title": "Latest-news freshness",
+    "status": "Editorial",
+    "before": "The newest item on the retrieved first page is dated 4 September 2025.",
+    "after": "Keep “Updates” and the dated posts. Ask the team which developments since September 2025 should be added.",
+    "why": "The news list needs attention, but its age does not justify a compulsory rename to “News archive”.",
+    "url": "https://www.netstim.org/blog/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": []
+  },
+  {
+    "page": "Onboarding",
+    "title": "Current location",
+    "status": "Update",
+    "before": "“Welcome to the network stimulation lab in Berlin!”",
+    "after": "Welcome to the NetStim lab in Cologne!",
+    "why": "A one-word location correction is enough. Keep the friendly welcome.",
+    "url": "https://www.netstim.org/internal/onboarding/",
+    "extra": "",
+    "kind": "Suggested wording",
+    "references": []
+  },
+  {
+    "page": "Site-wide",
+    "title": "Legacy destinations",
+    "status": "Confirm",
+    "before": "Some internal links still target netstim.berlin.",
+    "after": "Check the old-domain links and update destinations where needed. Keep working redirects.",
+    "why": "A link using netstim.berlin may still work.",
+    "url": "https://www.netstim.org/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Privacy",
+    "title": "Policy and cookie descriptions",
+    "status": "Confirm",
+    "before": "Generic account/comment wording and repeated cookie entries appear in the retrieved policy and banner.",
+    "after": "Ask the site owner to check that the privacy text and cookie list describe the services actually in use, and remove duplicate entries.",
+    "why": "No replacement legal text is proposed.",
+    "url": "https://www.netstim.org/privacy-policy/",
+    "extra": "",
+    "kind": "Needs confirmation",
+    "references": []
+  },
+  {
+    "page": "Local mock",
+    "title": "Benjamin: duplicated paragraphs",
+    "status": "Update",
+    "before": "The local biography repeats research and hobbies; the live People page does not.",
+    "after": "Delete the repeated paragraphs from Benjamin’s local profile.",
+    "why": "The live biography does not show this duplication.",
+    "url": "https://www.netstim.org/about-us/about-us/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": []
+  },
+  {
+    "page": "Local mock",
+    "title": "Selected papers versus full coverage",
+    "status": "Confirm",
+    "before": "The mock has three methods papers and no full bibliography.",
+    "after": "Keep the prototype’s selected papers labelled as a selection. Restore links to the full bibliography, posters, book, talks and updates when developing the site further.",
+    "why": "The mock should not accidentally drop the lab’s existing material.",
+    "url": "https://www.netstim.org/research-interests/publications/",
+    "extra": "",
+    "kind": "Editorial action",
+    "references": []
+  }
+]
